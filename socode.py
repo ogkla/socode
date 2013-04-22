@@ -28,6 +28,9 @@ import time
 import urllib2
 import platform
 
+def ogkla():
+	print 'never coded in \U0001F40D'
+
 def alisnic(number):
     print 'fizz' * (number % 3 == 0) + 'buzz' * (number % 5 == 0)
 
